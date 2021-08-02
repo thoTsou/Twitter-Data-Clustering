@@ -1,0 +1,1 @@
+Web app that collects live streaming data from twitter. Data is about covid-19 vaccination. Purpose of this web app is to detect how many of the collected data contain negative things and thoughts about covid-19 vaccination. Back-end is made with Java and jsp. 
